@@ -1,0 +1,12 @@
+export const RECEIVE_USERLIST="receive_userlist"
+export const RECEIVE_SHOPLIST="receive_shoplist"
+export const RECEIVE_ORDERLIST="receive_orderlist"
+export const RECEIVE_FOODLIST="receive_foodlist"
+export const RECEIVE_ADMINLIST="receive_adminlist"
+export const RECEIVE_CITY="receive_city"
+
+export const RECEIVE_USERLISTCOUNT="receive_userlistcount"
+export const RECEIVE_SHOPLISTCOUNT="receive_shoplistcount"
+export const RECEIVE_ORDERLISTCOUNT="receive_orderlistcount"
+export const RECEIVE_FOODLISTCOUNT="receive_foodlistcount"
+export const RECEIVE_ADMINLISTCOUNT="receive_adminlistcount"
